@@ -1,4 +1,4 @@
-A simple Todo App using React.
+Created a simple Todo App using React.
 
 # Getting Started with Create React App
 
